@@ -1,5 +1,6 @@
 # Contract Token Address
 Token Address: 0x2A4D7071D2C8D300644287B3381375FA14e23bC2
+
 Supply: 8.000.000 STN 
 
 
