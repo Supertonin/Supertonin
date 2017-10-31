@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Contract Token Address
+Token Address: 0x2A4D7071D2C8D300644287B3381375FA14e23bC2
+Supply: 8.000.000 STN 
 
-You can use the [editor on GitHub](https://github.com/Supertonin/Supertonin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Supertonin is the bridge between cryptocurrencies and mainstream consumer apps.
+Any app can launch branded tokens on open scalable side-chains, powered by Supertonin, a protocol for consumer-app tokenization and an ERC-20 utility token.
 
-### Markdown
+### We're building a network and ecosystem for consumer app tokenization. Join in and get all the benefits of blockchain tokens without the high costs and risks of building everything yourself from scratch.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Supertonin/Supertonin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Official Links
+Bitcointalk: https://bitcointalk.org/index.php?topic=2307020.0
+Whitepaper: https://docs.google.com/document/d/1zUjPupVE6LMnMbrA_F6Aj_IW-ADEcw049ncBKyOmk8I
+Discord: https://discord.gg/JZaRjcf
+Airdrop form (now deprecated): https://docs.google.com/forms/d/e/1FAIpQLSfOv5GetKGq4EmuHB1WP3PUTUYLvUwr-lu5IUKnDJcZJW_skw/viewform
+EtherDelta: https://etherdelta.com/#0x2a4d7071d2c8d300644287b3381375fa14e23bc2-ETH
